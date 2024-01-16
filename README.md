@@ -1,4 +1,4 @@
-# Anti Discord Webhook Steal Code
+# Anti Discord Webhook Steal
 ## Overview
 This Python code is designed to prevent the stealing of Discord webhooks by implementing a simple Flask application. The script listens for incoming POST requests on the /we endpoint and forwards the data to the specified Discord webhook.
 

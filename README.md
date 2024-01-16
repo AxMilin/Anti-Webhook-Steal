@@ -39,4 +39,4 @@ This code serves as a basic example and should not be solely relied upon for sec
 Feel free to contribute to the project by submitting issues or pull requests.
 
 ## License
-This code is licensed under the <a target="LICENSE">MIT License</a>. See the LICENSE file for details.
+This code is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
